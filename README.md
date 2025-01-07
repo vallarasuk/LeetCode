@@ -13,11 +13,11 @@
 
 ## Getting Started
 
-See the built page here: [LeetCode Solutions](https://walkccc.me/LeetCode/).
+See the built page here: [LeetCode Solutions](https://vallarasuk.com/).
 
 ## Coding Style and Naming
 
-Please see the [style guide](https://walkccc.me/LeetCode/styleguide/).
+##Please see the [style guide](https://walkccc.me/LeetCode/styleguide/).
 
 ## Formatting
 
