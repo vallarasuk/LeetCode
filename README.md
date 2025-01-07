@@ -36,7 +36,7 @@ This website went live on February 23, 2019.
 ## License
 
 Licensed under the MIT License, Copyright © 2019-2024
-[P.-Y. Chen](https://github.com/walkccc).
+[Vallarasu Kanthasamy](https://github.com/walkccc).
 
 <div align="center">
   <sub>Assembled with ❤️ in New York.</sub>
